@@ -1,3 +1,7 @@
 # Projects
 Repository for unpublished undergrad project(*UNGOING)
-Backend code
+app.py(Backend code)
+Default.html(Home page)
+register.html(register page)
+login.html(login page)
+
